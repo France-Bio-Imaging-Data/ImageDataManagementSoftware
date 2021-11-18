@@ -10,9 +10,11 @@ https://github.com/centuri-engineering/omero-at-centuri/tree/master/docker
 From Univ-Nice/EMBRC image: 
 contact faisal Beckouche/ Christophe Blanchet/ Frederic Brau
 (on open stack on NNCR, IFB cluster) 
-https://omero.france-bioinformatique.fr/
+https://omero.france-bioinformatique.fr/ (DEPRECATED LINK)
+For MICA Univ-nice: 
+https://bioimage.france-bioinformatique.fr/omero-mica/webclient/
 
-From nantes on an open stack on NNCR vuia BIRD, IFB cluster
+From Nantes on an open stack on NNCR vuia BIRD, IFB cluster
 https://omero.os-bird.univ-nantes.fr/webclient/login/?url=%2Fwebclient%2F
 
 
@@ -28,3 +30,7 @@ Wiki project https://github.com/strandls/openimadis/wiki
 site web project https://strandls.github.io/openimadis/
 Source code project et docker https://github.com/strandls/openimadis
 
+**Sys'NCOM:**
+Cochin image Data base:
+Documentation: https://www.institutcochin.fr/les-plateformes/microscopie-photonique/plate-forme-dimagerie-cellulaire-station-danalyse-1/cochin-image-database-1
+Lien d'accès : https://imagerie.cochin.inserm.fr/sis4web/login.php
