@@ -10,8 +10,6 @@ https://github.com/centuri-engineering/omero-at-centuri/tree/master/docker
 From Univ-Nice/EMBRC image: <br>
 contact Faisal Beckouche/ Christophe Blanchet/ Frederic Brau <br>
 (on open stack on NNCR, IFB cluster) <br>
-https://omero.france-bioinformatique.fr/ (DEPRECATED LINK) <br>
-For MICA Univ-nice: <br>
 https://bioimage.france-bioinformatique.fr/omero-mica/webclient/<br>
 
 From Nantes on an open stack on NNCR vuia BIRD, IFB cluster<br>
