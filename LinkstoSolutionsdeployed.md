@@ -15,6 +15,9 @@ https://bioimage.france-bioinformatique.fr/omero-mica/webclient/<br>
 From Nantes on an open stack on NNCR vuia BIRD, IFB cluster<br>
 https://omero.os-bird.univ-nantes.fr/webclient/login/?url=%2Fwebclient%2F <br>
 
+In Montpellier: on local server , to be moved on NNCR
+https://omero.mri.cnrs.fr/webclient/login/?url=%2Fwebclient%2F
+
 
 **BioImageIT** 
 linking Database and processing: https://github.com/bioimageit <br>
